@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "vite dev",
+        "preview": "vite preview",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "@vitejs/plugin-vue": "^2.2.0",
+        "reproduce-vite-async-css-bug-": "^1.0.0",
+        "vite": "^2.8.0",
+        "vue": "^3.2.30"
+    }
+}
